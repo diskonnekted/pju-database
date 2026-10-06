@@ -1,0 +1,72 @@
+CRITICAL - 2020-12-08 23:55:18 --> Table 'rambu.users' doesn't exist
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(125): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->getruas()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-12-08 23:56:22 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Admin/Pju.php on line 123
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(123): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->getruas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-08 23:56:23 --> Unknown column 'name' in 'field list'
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(125): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->getruas()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-12-08 23:56:24 --> Unknown column 'name' in 'field list'
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(125): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->getruas()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-12-08 23:56:28 --> Unknown column 'name' in 'field list'
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(125): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->getruas()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-12-08 23:56:47 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Admin/Pju.php on line 123
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(123): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->getruas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-08 23:56:54 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Admin/Pju.php on line 123
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(123): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->getruas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}

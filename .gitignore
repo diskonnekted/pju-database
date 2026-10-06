@@ -1,0 +1,47 @@
+# CodeIgniter 4 standard ignores
+/writable/*
+!/writable/.gitkeep
+!/writable/index.html
+/vendor/
+
+# User uploads and assets that shouldn't be in source control
+/uploads/*
+!/uploads/.gitkeep
+!/uploads/index.html
+
+/public/uploads/*
+!/public/uploads/.gitkeep
+!/public/uploads/index.html
+
+# IDEs and OS files
+/.idea/
+/.vscode/
+Thumbs.db
+EHthumbs.db
+desktop.ini
+.DS_Store
+
+# Sensitive Environment Files
+.env
+
+# Backups, dumps, zips and temporary files/folders in this specific repo
+/*.zip
+/backuo/
+/produksi/
+/assetss/
+/_*/
+/error_log
+
+# Ignore data/backup SQL files, keep reconstruction schema
+_*.sql
+_*.tsv
+_*.json
+_*.txt
+u1639363_pju.sql
+
+# Ignore other potential data files
+*.xls
+*.xlsx
+
+# Local credentials / notes
+/skb.txt

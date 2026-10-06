@@ -1,0 +1,8 @@
+CRITICAL - 2020-12-26 08:42:31 --> Undefined variable: array
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}

@@ -1,0 +1,8 @@
+CRITICAL - 2020-11-27 23:50:42 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}

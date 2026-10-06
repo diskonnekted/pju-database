@@ -1,0 +1,72 @@
+CRITICAL - 2020-11-18 13:07:17 --> Class 'AdminController' not found
+#0 /var/www/html/webgispju/system/Router/Router.php(583): include_once()
+#1 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-18 13:12:04 --> Undefined offset: 1
+#0 /var/www/html/webgispju/system/Router/Router.php(488): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/Router/Router.php(177): CodeIgniter\Router\Router->checkRoutes()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-18 13:12:27 --> Class 'AdminController' not found
+#0 /var/www/html/webgispju/system/Router/Router.php(583): include_once()
+#1 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-18 13:14:56 --> Class 'AdminController' not found
+#0 /var/www/html/webgispju/system/Router/Router.php(583): include_once()
+#1 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-18 13:15:02 --> Class 'AdminController' not found
+#0 /var/www/html/webgispju/system/Router/Router.php(583): include_once()
+#1 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-18 13:15:03 --> Class 'AdminController' not found
+#0 /var/www/html/webgispju/system/Router/Router.php(583): include_once()
+#1 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-18 13:15:03 --> Class 'AdminController' not found
+#0 /var/www/html/webgispju/system/Router/Router.php(583): include_once()
+#1 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-18 13:15:03 --> Class 'AdminController' not found
+#0 /var/www/html/webgispju/system/Router/Router.php(583): include_once()
+#1 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}

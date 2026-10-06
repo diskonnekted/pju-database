@@ -1,0 +1,16 @@
+CRITICAL - 2020-12-21 22:43:01 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Admin/Pju.php on line 144
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(144): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->getruas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-21 22:44:00 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Admin/Pju.php on line 144
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(144): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->getruas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}

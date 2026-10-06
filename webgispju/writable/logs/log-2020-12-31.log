@@ -1,0 +1,2062 @@
+CRITICAL - 2020-12-31 00:03:12 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(56): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:03:13 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(56): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:17:13 --> Undefined variable: jenis
+#0 /var/www/html/webgispju/app/Views/new/dashboard.php(182): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Dashboard.php(17): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:18:01 --> Undefined property: stdClass::$jumlah
+#0 /var/www/html/webgispju/app/Views/new/dashboard.php(189): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Dashboard.php(17): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:20:11 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(56): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:20:12 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(56): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:20:17 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(56): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:20:18 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(56): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:29:50 --> syntax error, unexpected end of file
+#0 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#1 /var/www/html/webgispju/app/Controllers/Dashboard.php(17): view()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-12-31 00:29:51 --> syntax error, unexpected end of file
+#0 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#1 /var/www/html/webgispju/app/Controllers/Dashboard.php(17): view()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-12-31 00:29:51 --> syntax error, unexpected end of file
+#0 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#1 /var/www/html/webgispju/app/Controllers/Dashboard.php(17): view()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-12-31 00:31:55 --> syntax error, unexpected '?>'
+#0 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#1 /var/www/html/webgispju/app/Controllers/Dashboard.php(17): view()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-12-31 00:32:47 --> Undefined variable: array
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 00:33:19 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(56): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:33:20 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(56): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:35:17 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:35:18 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:35:37 --> Undefined variable: array
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 00:35:49 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:35:50 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 00:35:57 --> Trying to get property 'nama' of non-object
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:24:45 --> Undefined variable: array
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 07:24:56 --> Undefined variable: array
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:26:37 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:25 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:26 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:26 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:26 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:27:44 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:28:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:28:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:28:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:28:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:28:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:28:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:28:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:40 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:40 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:40 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:40 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:40 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:40 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:40 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:36:45 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:09 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:20 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:20 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:21 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:59 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:59 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:38:59 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:40:12 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:40:12 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:40:12 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:40:12 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:40:12 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:40:12 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:40:12 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:40:12 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:40:12 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 07:40:12 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:10:42 --> Undefined variable: array
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 08:11:29 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:29 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:29 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:29 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:29 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:29 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:29 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:29 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:29 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:29 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:38 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:38 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:38 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:38 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:38 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:38 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:38 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:38 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:38 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:11:38 --> Trying to get property 'id' of non-object
+#0 /var/www/html/webgispju/app/Views/new/perkap.php(33): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(59): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-31 08:42:29 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 08:43:01 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 08:43:03 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 08:44:34 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 08:45:05 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 08:45:06 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 08:46:01 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 08:49:01 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 09:18:06 --> Undefined variable: array
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 09:25:14 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 09:26:10 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 09:26:35 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 09:39:28 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::gerRow()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-12-31 09:52:16 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:00:12 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:01:13 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:02:03 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:02:03 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:02:08 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:02:08 --> Undefined variable: array
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:02:19 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:04:33 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:04:34 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:05:46 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:05:50 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:07:38 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:07:39 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:07:42 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:08:04 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:08:06 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:08:12 --> Undefined variable: array
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(43): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:08:49 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:08:51 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:09:25 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:09:27 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:10:03 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:10:08 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:35:39 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:35:47 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:36:19 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:36:51 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(92): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:36:52 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:37:01 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 70
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(70): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:40:25 --> syntax error, unexpected '}'
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:40:36 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(97): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:40:36 --> Trying to get property 'kondisi' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:40:38 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 75
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(75): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:40:52 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 75
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(75): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:41:27 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 75
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(75): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:41:41 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 75
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(75): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:41:45 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(97): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:41:45 --> Trying to get property 'kondisi' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:42:07 --> Trying to get property 'from_lat' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(97): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getdir()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:42:07 --> Trying to get property 'kondisi' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:42:16 --> Trying to get property 'kondisi' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:44:34 --> Trying to get property 'kondisi' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:45:03 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 75
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(75): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 10:45:14 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 75
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(75): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 11:20:16 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 75
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(75): CodeIgniter\Database\BaseBuilder->like()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->getRuas()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-31 11:20:22 --> Undefined variable: array
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(48): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perlengkapan()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}

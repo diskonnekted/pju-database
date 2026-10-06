@@ -1,0 +1,71 @@
+CRITICAL - 2020-12-12 16:16:05 --> Undefined variable: jenis
+#0 /var/www/html/webgispju/app/Views/admin/template/header.php(323): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(21): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-12 16:16:32 --> Undefined variable: jenis
+#0 /var/www/html/webgispju/app/Views/admin/template/header.php(323): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(30): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->jenis()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-12 16:19:19 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php on line 24
+#0 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(24): view()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-12 16:19:19 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php on line 24
+#0 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(24): view()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-12 16:39:35 --> Array to string conversion
+#0 /var/www/html/webgispju/app/Views/admin/template/footer.php(70): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(19): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->survey()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-12 16:39:45 --> Array to string conversion
+#0 /var/www/html/webgispju/app/Views/admin/template/footer.php(70): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(19): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->survey()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-12 16:47:20 --> Undefined variable: jenis
+#0 /var/www/html/webgispju/app/Views/admin/template/header.php(323): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(40): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->jenis()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}

@@ -1,0 +1,20 @@
+CRITICAL - 2020-11-15 23:04:08 --> syntax error, unexpected 'icon' (T_STRING)
+#0 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#1 /var/www/html/webgispju/app/Controllers/Dashboard.php(17): view()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-15 23:11:36 --> Undefined variable: jenis
+#0 /var/www/html/webgispju/app/Views/template/header.php(166): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Pengaduan.php(10): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Pengaduan->index()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}

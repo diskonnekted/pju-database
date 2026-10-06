@@ -1,0 +1,126 @@
+CRITICAL - 2020-11-23 14:50:34 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-23 14:50:41 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::Result()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-23 14:50:45 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::result()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-23 14:50:49 --> Argument 2 passed to view() must be of the type array, object given, called in /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php on line 16
+#0 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(16): view()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-23 14:51:02 --> Invalid file: admin/perlengkapan.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(17): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-23 14:51:02 --> Invalid file: admin/perlengkapan.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(17): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-23 14:51:33 --> Invalid file: admin/perlengkapan.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(17): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-23 14:51:33 --> Invalid file: admin/perlengkapan.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(17): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-23 14:51:36 --> Invalid file: admin/perlengkapan.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(17): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-23 14:51:36 --> Invalid file: admin/perlengkapan.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(17): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-23 14:51:58 --> Invalid file: admin/perlengkapanjalan.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(17): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-23 14:51:58 --> Invalid file: admin/perlengkapanjalan.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(17): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->data()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-23 22:07:52 --> Invalid file: admin/jenis.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Perlengkapan.php(21): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->jenis()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-23 22:43:53 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Perlengkapan->jenis()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}

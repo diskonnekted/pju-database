@@ -1,0 +1,395 @@
+CRITICAL - 2020-11-19 10:34:50 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Controllers/Admin/AdminController.php(53): redirect()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(891): App\Controllers\Admin\AdminController->initController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 10:35:25 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Controllers/Admin/AdminController.php(52): redirect()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(891): App\Controllers\Admin\AdminController->initController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 10:35:26 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Controllers/Admin/AdminController.php(52): redirect()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(891): App\Controllers\Admin\AdminController->initController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 10:37:10 --> Invalid file: login.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Auth.php(10): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Auth->index()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 10:38:04 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 /var/www/html/webgispju/system/CodeIgniter.php(891): App\Controllers\Admin\AdminController->initController()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-19 10:41:10 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Controllers/Admin/AdminController.php(54): redirect()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(891): App\Controllers\Admin\AdminController->initController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 10:41:19 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Controllers/Admin/AdminController.php(54): redirect()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(891): App\Controllers\Admin\AdminController->initController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:09:49 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:09:50 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:09:51 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:10:05 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:10:50 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:10:51 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:10:51 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:10:51 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:10:52 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:11:01 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:11:02 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:11:02 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:11:03 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:11:54 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:11:55 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:11:56 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:11:56 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:11:56 --> Class 'App\Filters\LoginAdminFilter' not found
+#0 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#2 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#3 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#4 {main}
+CRITICAL - 2020-11-19 11:12:19 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:12:20 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:12:20 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:26 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:27 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:30 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:31 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:36 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:36 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:37 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:37 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:44 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:45 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:13:46 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:14:01 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:14:01 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:14:02 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:15:16 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:15:17 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:15:17 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:15:17 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-19 11:15:18 -->  route cannot be found while reverse-routing.
+#0 /var/www/html/webgispju/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/webgispju/system/Common.php(845): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/webgispju/app/Filters/LoginAdminFilter.php(19): redirect()
+#3 /var/www/html/webgispju/system/Filters/Filters.php(173): App\Filters\LoginAdminFilter->before()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(382): CodeIgniter\Filters\Filters->run()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}

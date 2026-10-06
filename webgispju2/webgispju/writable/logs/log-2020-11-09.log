@@ -1,0 +1,196 @@
+CRITICAL - 2020-11-09 10:28:08 --> Call to a member function get() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 10:28:47 --> Call to a member function get() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 10:30:50 --> Call to a member function get() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:08:04 --> Call to a member function get() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:13:45 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:15:13 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:16:42 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:19:16 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:19:18 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:19:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:21:20 --> Call to a member function table() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:21:21 --> Call to a member function table() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:21:33 --> Call to a member function table() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:21:34 --> Call to a member function table() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:21:54 --> Call to a member function table() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:22:29 --> Call to a member function table() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:22:31 --> Call to a member function table() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:24:34 --> Call to a member function table() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:25:51 --> Call to a member function table() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 11:26:56 --> Call to a member function table() on null
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-11-09 13:06:27 --> Undefined property: App\Controllers\Dashboard::$db
+#0 /var/www/html/webgispju/app/Controllers/Dashboard.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-09 13:06:49 --> Undefined property: App\Controllers\Dashboard::$db
+#0 /var/www/html/webgispju/app/Controllers/Dashboard.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-09 13:18:30 --> Undefined property: App\Controllers\Dashboard::$db
+#0 /var/www/html/webgispju/app/Controllers/Dashboard.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-09 13:51:04 --> Undefined property: App\Controllers\Dashboard::$db
+#0 /var/www/html/webgispju/app/Controllers/Dashboard.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-09 14:10:37 --> Undefined property: App\Controllers\Dashboard::$db
+#0 /var/www/html/webgispju/app/Controllers/Dashboard.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-09 14:11:47 --> Undefined property: App\Controllers\Dashboard::$db
+#0 /var/www/html/webgispju/app/Controllers/Dashboard.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-09 14:34:32 --> Undefined property: App\Controllers\Dashboard::$db
+#0 /var/www/html/webgispju/app/Controllers/Dashboard.php(15): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Dashboard->index()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}

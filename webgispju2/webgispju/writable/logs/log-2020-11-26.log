@@ -1,0 +1,56 @@
+CRITICAL - 2020-11-26 08:04:39 --> Invalid file: admin/ruasjalan.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Ruas.php(11): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Ruas->index()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-26 08:05:19 --> Invalid file: admin/ruasjalan.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Ruas.php(11): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Ruas->index()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-26 22:35:38 --> Column count doesn't match value count at row 1
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Ruas.php(47): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Ruas->simpan()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-11-26 22:38:03 --> Column count doesn't match value count at row 1
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Ruas.php(47): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Ruas->simpan()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-11-26 22:39:37 --> Column 'norut' cannot be null
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Ruas.php(47): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Ruas->simpan()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}

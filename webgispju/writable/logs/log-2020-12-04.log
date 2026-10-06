@@ -1,0 +1,15 @@
+CRITICAL - 2020-12-04 18:45:53 --> fwrite(): write of 75 bytes failed with errno=5 Input/output error
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CLI/CLI.php(1156): fwrite()
+#2 /var/www/html/webgispju/system/CLI/CLI.php(379): CodeIgniter\CLI\CLI::fwrite()
+#3 /var/www/html/webgispju/system/Commands/Server/Serve.php(146): CodeIgniter\CLI\CLI::write()
+#4 /var/www/html/webgispju/system/Commands/Server/Serve.php(164): CodeIgniter\Commands\Server\Serve->run()
+#5 /var/www/html/webgispju/system/CLI/Commands.php(100): CodeIgniter\Commands\Server\Serve->run()
+#6 /var/www/html/webgispju/system/CLI/CommandRunner.php(107): CodeIgniter\CLI\Commands->run()
+#7 /var/www/html/webgispju/system/CLI/CommandRunner.php(85): CodeIgniter\CLI\CommandRunner->index()
+#8 /var/www/html/webgispju/system/CodeIgniter.php(914): CodeIgniter\CLI\CommandRunner->_remap()
+#9 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#10 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#11 /var/www/html/webgispju/system/CLI/Console.php(86): CodeIgniter\CodeIgniter->run()
+#12 /var/www/html/webgispju/spark(57): CodeIgniter\CLI\Console->run()
+#13 {main}

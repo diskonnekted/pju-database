@@ -1,0 +1,136 @@
+CRITICAL - 2020-12-06 09:09:21 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-06 09:09:24 --> syntax error, unexpected 'echo' (T_ECHO)
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-06 09:10:40 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::orderBy()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-12-06 09:23:57 --> Too few arguments to function CodeIgniter\Database\BaseBuilder::join(), 1 passed in /var/www/html/webgispju/app/Controllers/Home.php on line 9 and at least 2 expected
+#0 /var/www/html/webgispju/app/Controllers/Home.php(9): CodeIgniter\Database\BaseBuilder->join()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-06 09:24:20 --> Too few arguments to function CodeIgniter\Database\BaseBuilder::join(), 1 passed in /var/www/html/webgispju/app/Controllers/Home.php on line 9 and at least 2 expected
+#0 /var/www/html/webgispju/app/Controllers/Home.php(9): CodeIgniter\Database\BaseBuilder->join()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-06 09:24:22 --> Too few arguments to function CodeIgniter\Database\BaseBuilder::join(), 1 passed in /var/www/html/webgispju/app/Controllers/Home.php on line 9 and at least 2 expected
+#0 /var/www/html/webgispju/app/Controllers/Home.php(9): CodeIgniter\Database\BaseBuilder->join()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-06 15:22:06 --> Invalid file: maps.php
+#0 /var/www/html/webgispju/system/View/View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Peta.php(13): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->index()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-12-06 15:24:09 --> Undefined variable: item
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(13): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->index()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-06 15:24:10 --> Undefined variable: item
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(13): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->index()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-06 15:26:38 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 27
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(27): view()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-06 15:26:38 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 27
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(27): view()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-06 15:26:39 --> Argument 2 passed to view() must be of the type array, string given, called in /var/www/html/webgispju/app/Controllers/Peta.php on line 27
+#0 /var/www/html/webgispju/app/Controllers/Peta.php(27): view()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-06 15:28:30 --> Undefined property: CodeIgniter\Database\MySQLi\Builder::$title
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(27): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-06 15:28:30 --> Undefined property: CodeIgniter\Database\MySQLi\Builder::$title
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(27): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-06 15:28:31 --> Undefined property: CodeIgniter\Database\MySQLi\Builder::$title
+#0 /var/www/html/webgispju/app/Views/peta_ind.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#2 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#3 /var/www/html/webgispju/app/Controllers/Peta.php(27): view()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Peta->perkap()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}

@@ -1,0 +1,253 @@
+CRITICAL - 2020-11-28 00:07:08 --> Trying to access array offset on value of type int
+#0 /var/www/html/webgispju/app/ThirdParty/PHPExcel/PHPExcel/Cell/DefaultValueBinder.php(82): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/ThirdParty/PHPExcel/PHPExcel/Cell/DefaultValueBinder.php(61): PHPExcel_Cell_DefaultValueBinder::dataTypeForValue()
+#2 /var/www/html/webgispju/app/ThirdParty/PHPExcel/PHPExcel/Cell.php(206): PHPExcel_Cell_DefaultValueBinder->bindValue()
+#3 /var/www/html/webgispju/app/ThirdParty/PHPExcel/PHPExcel/Reader/Excel2007.php(913): PHPExcel_Cell->setValue()
+#4 /var/www/html/webgispju/app/ThirdParty/PHPExcel/PHPExcel/IOFactory.php(192): PHPExcel_Reader_Excel2007->load()
+#5 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(25): PHPExcel_IOFactory::load()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#8 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#9 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#11 {main}
+CRITICAL - 2020-11-28 00:10:02 --> Column 'tglpdl' cannot be null
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(50): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-11-28 00:31:23 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 00:34:55 --> in_array() expects at least 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(20): in_array()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-28 00:37:09 --> in_array() expects at least 2 parameters, 1 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(21): in_array()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-28 00:37:47 --> Array to string conversion
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(32): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 00:38:28 --> end() expects parameter 1 to be array, null given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(23): end()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-28 00:40:08 --> syntax error, unexpected ')'
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 00:40:13 --> end() expects parameter 1 to be array, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(23): end()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-28 00:40:26 --> Array to string conversion
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(32): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 00:42:04 --> Undefined index: B
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 00:44:12 --> syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 00:49:54 --> Column 'tglpdl' cannot be null
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(70): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-11-28 09:57:37 --> Argument 1 passed to PhpOffice\PhpSpreadsheet\Shared\Date::isDateTime() must be an instance of PhpOffice\PhpSpreadsheet\Cell\Cell, null given, called in /var/www/html/webgispju/app/Controllers/Admin/Pju.php on line 57
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(57): PhpOffice\PhpSpreadsheet\Shared\Date::isDateTime()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 09:58:34 --> A non well formed numeric value encountered
+#0 /var/www/html/webgispju/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/Date.php(180): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(58): PhpOffice\PhpSpreadsheet\Shared\Date::excelToDateTimeObject()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-28 10:06:51 --> Argument 1 passed to PhpOffice\PhpSpreadsheet\Shared\Date::isDateTimeFormat() must be an instance of PhpOffice\PhpSpreadsheet\Style\NumberFormat, string given, called in /var/www/html/webgispju/app/Controllers/Admin/Pju.php on line 55
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(55): PhpOffice\PhpSpreadsheet\Shared\Date::isDateTimeFormat()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 10:07:12 --> A non well formed numeric value encountered
+#0 /var/www/html/webgispju/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/Date.php(180): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/Date.php(208): PhpOffice\PhpSpreadsheet\Shared\Date::excelToDateTimeObject()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(55): PhpOffice\PhpSpreadsheet\Shared\Date::excelToTimestamp()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-11-28 10:07:32 --> Argument 1 passed to PhpOffice\PhpSpreadsheet\Shared\Date::dateTimeToExcel() must implement interface DateTimeInterface, string given, called in /var/www/html/webgispju/app/Controllers/Admin/Pju.php on line 55
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(55): PhpOffice\PhpSpreadsheet\Shared\Date::dateTimeToExcel()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 10:09:07 --> A non well formed numeric value encountered
+#0 /var/www/html/webgispju/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Shared/Date.php(180): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(55): PhpOffice\PhpSpreadsheet\Shared\Date::excelToDateTimeObject()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-11-28 10:09:16 --> Argument 1 passed to PhpOffice\PhpSpreadsheet\Shared\Date::dateTimeToExcel() must implement interface DateTimeInterface, string given, called in /var/www/html/webgispju/app/Controllers/Admin/Pju.php on line 55
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(55): PhpOffice\PhpSpreadsheet\Shared\Date::dateTimeToExcel()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->import()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 10:10:36 --> syntax error, unexpected ';', expecting ')'
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 12:37:31 --> Unknown column 'id_pel' in 'field list'
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(108): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->importtagihan()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-11-28 12:38:26 --> Column 'id_pel' cannot be null
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(108): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->importtagihan()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-11-28 12:38:44 --> Column 'id_pel' cannot be null
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(108): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->importtagihan()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
+CRITICAL - 2020-11-28 12:39:49 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 12:39:49 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-11-28 12:41:27 --> Column 'tarip' cannot be null
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/system/Database/BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(110): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->importtagihan()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}

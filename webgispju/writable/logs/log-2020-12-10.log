@@ -1,0 +1,152 @@
+CRITICAL - 2020-12-10 12:52:56 --> Call to undefined function App\Controllers\Admin\parseInt()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->importtagihan()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-12-10 13:39:27 --> Call to undefined function App\Controllers\Admin\format_number()
+#0 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->importtagihan()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#5 {main}
+CRITICAL - 2020-12-10 13:39:44 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(97): number_format()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->importtagihan()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-12-10 13:40:22 --> str_repeat() expects exactly 2 parameters, 3 given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(97): str_repeat()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->importtagihan()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-12-10 13:40:37 --> number_format() expects parameter 1 to be float, string given
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(97): number_format()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->importtagihan()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-12-10 14:35:30 --> Trying to get property 'blth' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(231): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->grafik()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-10 14:35:35 --> Trying to get property 'blth' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(231): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->grafik()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-10 14:35:46 --> Trying to get property 'bulan' of non-object
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(231): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->grafik()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-10 14:36:28 --> A non well formed numeric value encountered
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(231): date()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->grafik()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#5 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#7 {main}
+CRITICAL - 2020-12-10 14:36:56 --> Undefined property: stdClass::$total
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(232): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->grafik()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-10 14:37:07 --> Undefined property: stdClass::$nkwh
+#0 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(234): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->grafik()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-10 14:41:58 --> syntax error, unexpected ';', expecting ')'
+#0 /var/www/html/webgispju/system/Router/Router.php(195): CodeIgniter\Router\Router->autoRoute()
+#1 /var/www/html/webgispju/system/CodeIgniter.php(793): CodeIgniter\Router\Router->handle()
+#2 /var/www/html/webgispju/system/CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#4 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#6 {main}
+CRITICAL - 2020-12-10 14:55:22 --> In aggregated query without GROUP BY, expression #1 of SELECT list contains nonaggregated column 'rambu.tagihan.blth'; this is incompatible with sql_mode=only_full_group_by
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(251): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->tagihan()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-10 14:56:33 --> Every derived table must have its own alias
+#0 /var/www/html/webgispju/system/Database/MySQLi/Connection.php(331): mysqli->query()
+#1 /var/www/html/webgispju/system/Database/BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /var/www/html/webgispju/system/Database/BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(251): CodeIgniter\Database\BaseConnection->query()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->tagihan()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#7 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#9 {main}
+CRITICAL - 2020-12-10 14:59:14 --> Call to undefined function number_to_currency()
+#0 /var/www/html/webgispju/system/View/View.php(246): include()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(253): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->tagihan()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-12-10 15:00:20 --> Call to undefined function number_to_currency()
+#0 /var/www/html/webgispju/system/View/View.php(246): include()
+#1 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#2 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(253): view()
+#3 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->tagihan()
+#4 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#8 {main}
+CRITICAL - 2020-12-10 15:01:10 --> Wrong parameter count for number_format()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /var/www/html/webgispju/app/Views/admin/tagihan.php(21): number_format()
+#2 /var/www/html/webgispju/system/View/View.php(246): include('/var/www/html/w...')
+#3 /var/www/html/webgispju/system/Common.php(1119): CodeIgniter\View\View->render()
+#4 /var/www/html/webgispju/app/Controllers/Admin/Pju.php(253): view()
+#5 /var/www/html/webgispju/system/CodeIgniter.php(918): App\Controllers\Admin\Pju->tagihan()
+#6 /var/www/html/webgispju/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController()
+#7 /var/www/html/webgispju/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest()
+#8 /var/www/html/webgispju/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 /var/www/html/webgispju/system/Commands/Server/rewrite.php(34): require_once('/var/www/html/w...')
+#10 {main}
